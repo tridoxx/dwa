@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+
+padding-left: 5%;
+
+}
+header{
+    padding: 10px;
+
+}
+
+ul{
+    display: inline-flex;
+    list-style: none;
+    text-decoration: none;
+}
+
+a{
+    display: inline-flex;
+    color: black;
+    padding: 10px 20px;
+    text-decoration: none;
+    
+    }
+
+.titulo{
+
+    display: inline;
+} 
+nav{
+    width: 90%;
+    height: 15%;
+}
+
+button{
+padding: 15px;
+float: right;
+width: 10%;
+background-color: #00000096;
+color: white;
+border:none;
+}
+.espacio{
+
+    display: block;
+    padding-top: 10%;
+
+}
+
+.espacio-articulo{
+
+    display: block;
+    padding-top: 4%;
+
+}
+
+main{
+
+    padding-left: 10%;
+    display: inline-flex;
+    width: 90%;
+}
+
+
+h1{
+    padding-bottom: 3%;
+
+}
+h5{
+    float: right;
+    padding-top: 5%;
+}
+p{
+    padding-bottom: 5%;
+    padding-right: 12%;
+
+}
+
+article{
+ /* padding-left: inherit; */
+ width: 60%;
+}
+
+.article-2{
+    width: 90%;   
+   }
+   
+
+.div-article{
+    padding-left: inherit;
+   
+   }
+
+section{
+
+padding: 5%;
+display: contents;
+}
+.img-redonda{
+    width: 23%;
+    border: 2px solid gray;
+    border-radius: 100%;
+}
+
+.cuadro-footer{
+
+    width: 10%;
+    height: 10%; 
+}
+
+footer{
+    padding-left: 5%;
+    display: block;
+    width: 90%;
+}
